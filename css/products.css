@@ -1,0 +1,50 @@
+@import url(variables.css);
+*{
+    font-family: "font_6";
+    color: rgb(70, 0, 0);
+}
+
+.full{
+    background: rgba(65, 64, 64, 0.562);
+    height: 60vh;
+    display: flex;
+    
+    flex-direction: column;
+
+    width: 55vh; 
+    height: 60vh; 
+    overflow-y: scroll; 
+    border: 1px solid #ccc; 
+    margin-top: 20vh;
+    margin-left: 1vh;
+}
+.p1{
+    font-size: 6vh;
+}
+.p2{
+    font-size: 6vh;
+}
+.p3{
+    font-size: 6vh;
+}
+.p4{
+    font-size: 6vh;
+}
+.p5{
+    font-size: 6vh;
+}
+.p6{
+    font-size: 6vh;
+}
+.p7{
+    font-size: 6vh;
+}
+.p8{
+    font-size: 6vh;
+}
+button img{
+
+    height: 4vh;
+    
+}
+body{background: rgb(0, 1, 54);}

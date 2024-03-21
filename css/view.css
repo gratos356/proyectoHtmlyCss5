@@ -1,0 +1,23 @@
+@import url(variables.css);
+
+.button img{
+    position: absolute;
+    height: 4vh; 
+}
+button{
+    background: transparent;
+    border: transparent;
+}
+.storage{
+    margin-top: 6vh;
+    background: black;
+    width: 55vh;
+    border-radius: 10%;
+    
+}
+.storage img{
+    border-radius: 10%;
+}
+body{
+   background: rgb(0, 1, 54); 
+}

@@ -1,0 +1,32 @@
+:root{
+    --color-naranja : #ff702a;
+    --color-cian: #12b886;
+    --color-black:#1e1d2b;
+    --color-blue:#2c2b47;
+    --color-whithe:#13121b;
+    
+    }
+@font-face{ 
+    font-family: "font_1";
+    src: url(../storage/fonts/Shaka\ Pow.ttf);
+}
+@font-face{
+    font-family: "font_2";
+    src:url(../storage/fonts/Shaka\ Pow\ Hollow.ttf);
+}
+@font-face{
+    font-family: "font_3";
+    src:url(../storage/fonts/Shaka\ Pow\ Upright.ttf);
+}
+@font-face{
+    font-family: "font_4";
+    src:url(../storage/fonts/Shaka\ Pow\ Upright\ Hollow.ttf);
+}
+@font-face{
+    font-family: "font_5";
+    src:url(../storage/fonts/BroncoPersonalUse.ttf);
+}
+@font-face{
+    font-family: "font_6";
+    src: url(../storage/fonts/GODOFWAR.TTF);
+}
